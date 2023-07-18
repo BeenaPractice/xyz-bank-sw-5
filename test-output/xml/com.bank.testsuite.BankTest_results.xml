@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bank Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.417">
+  <properties />
+  
+  
+            <testcase name="bankManagerShouldAddCustomerSuccessfully" time="1.671" classname="com.bank.testsuite.BankTest" />
+                <testcase name="customerShouldWithdrawMoneySuccessfully" time="2.207" classname="com.bank.testsuite.BankTest" />
+                <testcase name="bankManagerShouldOpenAccountSuccessfully" time="1.749" classname="com.bank.testsuite.BankTest" />
+                <testcase name="customerShouldDepositMoneySuccessfully" time="2.129" classname="com.bank.testsuite.BankTest" />
+                <testcase name="customerShouldLoginAndLogoutSuccessfully" time="1.661" classname="com.bank.testsuite.BankTest" />
+      
+</testsuite>
